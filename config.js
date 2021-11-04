@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'Phượng à, 5 hên đây :>',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: '8 thích anh <33',
-    btnNo: 'Không, 8 coi 5 là a trai :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao 8 lại yêu 5 <3',
-    btnReply: 'Gửi cho lão 5 hên <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu 8 à <33333333',
-    mess: '5 biết mà 🥰. Yêu 8 nhiều nhiều 😘😘',
-    messDesc: 'Nhắn tin cho tôi nhe 8 :>>.',
+    introTitle: 'HÉ LU, XIN CHÀO Cauuuuuu <3',
+    introDesc: `Tớ có điều mún hỏi cậu, cậu phải trả nời thật nòng nhaaa :3`,
+    btnIntro: 'Ok',
+    title: 'Cậu yêu tớ có phải hum nào 😙',
+    desc: 'Nếu cậu khum chịu trả lời mà lại thoát ra tức là cậu là ngiu tớ nhoa =)) ',
+    btnYes: 'Cậu mơ à',
+    btnNo: ' :Ui đáng iu lắm lun í <3 ',
+    question:'Nói cho tớ lí do cậu thích tớ điiiii <3',
+    btnReply: 'Tại vì cậu đẹp trai áaaa :v',
+    reply: 'Gửi cho tớ điiiii 🥰',
+    mess: 'Gửi cho tớ điii 😘😘',
+    messDesc: 'Tớ biết mà yêu cậu 3000 á 🥰🥰🥰 Tối nay tớ đón cậu đi chơi nha <3, Còn chần chờ gì nữa mau inbox tớ đi áaaaaa',
     btnAccept: 'Âu kây :3',
     messLink: 'https://m.me/vvnuc' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
